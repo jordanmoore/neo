@@ -263,6 +263,11 @@ a:hover {
     border-color: rgba(255, 255, 255, .06);
 }
 
+/* EMBEDDED PAGES */
+*[style*="background-color: rgb(235, 241, 245)"] {
+    background-color: #000 !important;
+}
+
 /* SEARCH AND TOOLTIPS */
 
 .roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .top-row:hover {
