@@ -264,7 +264,7 @@ a:hover {
 }
 
 /* EMBEDDED PAGES */
-*[style*="background-color: rgb(235, 241, 245)"] {
+*[style*="background-color: rgb(235, 241, 245)"], .rm-embed-container {
     background-color: #000 !important;
 }
 
